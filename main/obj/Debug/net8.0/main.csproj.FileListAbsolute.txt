@@ -1,0 +1,15 @@
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.AssemblyInfoInputs.cache
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.AssemblyInfo.cs
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.csproj.CoreCompileInputs.cache
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.sourcelink.json
+c:\Users\semav\kakpoluchit5\main\bin\Debug\net8.0\main.exe
+c:\Users\semav\kakpoluchit5\main\bin\Debug\net8.0\main.deps.json
+c:\Users\semav\kakpoluchit5\main\bin\Debug\net8.0\main.runtimeconfig.json
+c:\Users\semav\kakpoluchit5\main\bin\Debug\net8.0\main.dll
+c:\Users\semav\kakpoluchit5\main\bin\Debug\net8.0\main.pdb
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.dll
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\refint\main.dll
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.pdb
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\main.genruntimeconfig.cache
+c:\Users\semav\kakpoluchit5\main\obj\Debug\net8.0\ref\main.dll
